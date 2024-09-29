@@ -1,4 +1,6 @@
 # EX.NO.2B - IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## NAME: GANESH R
+## REGISTER NO: 212222240029
 ## AIM:
 To implement the sliding window protocal using Python.
 ## ALGORITHM:
@@ -10,10 +12,7 @@ To implement the sliding window protocal using Python.
 6. Stop the Program
 ## PROGRAM:
 ## Client:
-```
-Thanjiyappan k
-212222240108
-
+```py
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
